@@ -114,3 +114,9 @@ STATIC_ROOT = 'static'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+# Переменные
+COMPANY_NAME = 'Беги - не тупи'
+SLOGAN = 'Беги ты, потому что диван никуда не убежит.'
+CONTACTS = '8(800)555-35-35'
